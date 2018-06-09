@@ -1,2 +1,3 @@
 # Word-Guess-Game
-JS hw
+
+A JavaScript challenge assignment
